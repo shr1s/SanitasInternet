@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sanitas-aem-internet.iml" filepath="$PROJECT_DIR$/sanitas-aem-internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sanitas-aem-internet-seleniumtest/sanitas-aem-internet-seleniumtest.iml" filepath="$PROJECT_DIR$/sanitas-aem-internet-seleniumtest/sanitas-aem-internet-seleniumtest.iml" />
+    </modules>
+  </component>
+</project>
